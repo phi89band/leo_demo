@@ -60,6 +60,8 @@ curl http://192.168.100.99:9000/500
  - On the web application
  ```bash
  pip install -r leo_web/requirements.txt
+ ```
+ ```bash
  python leo_web/app_tests.py
  ```
  - On the docker container
