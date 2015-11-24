@@ -30,4 +30,4 @@ def calculate_nth_fib(sequence_requested):
     return(response)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
